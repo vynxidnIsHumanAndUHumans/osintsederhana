@@ -1,0 +1,268 @@
+{
+  "target": "https://google.com",
+  "timestamp": "2026-04-19T02:00:15.030574",
+  "data_nodes": {
+    "emails": [],
+    "phones": [
+      "(748402147",
+      "416666667))",
+      "-9007199254740991",
+      "1184720131",
+      "4294967295",
+      " 9007199254740991",
+      "(610401301",
+      "009999999776482582",
+      "1000000014901161"
+    ],
+    "links": [
+      "https://mail.google.com/mail/&ogbl",
+      "https://www.google.com/imghp?hl=en&ogbl",
+      "https://www.google.com.sg/intl/en/about/products",
+      "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ",
+      "https://google.com/advanced_search?hl=en-SG&authuser=0",
+      "https://www.google.com/setprefs?sig=0_-h-dQKLEQllOz-fuRbPLrPkyYMc%3D&hl=zh-CN&source=homepage&sa=X&ved=0ahUKEwiuuaHX6PiTAxX1fGwGHTBHNosQ2ZgBCAU",
+      "https://www.google.com/setprefs?sig=0_-h-dQKLEQllOz-fuRbPLrPkyYMc%3D&hl=ms&source=homepage&sa=X&ved=0ahUKEwiuuaHX6PiTAxX1fGwGHTBHNosQ2ZgBCAY",
+      "https://www.google.com/setprefs?sig=0_-h-dQKLEQllOz-fuRbPLrPkyYMc%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwiuuaHX6PiTAxX1fGwGHTBHNosQ2ZgBCAc",
+      "https://google.com/intl/en/ads/",
+      "http://www.google.com.sg/intl/en/services/",
+      "https://google.com/intl/en/about.html",
+      "https://www.google.com/setprefdomain?prefdom=SG&prev=https://www.google.com.sg/&sig=K_4MDm670i8DpcaeeMnrDXVrk9svs%3D",
+      "https://google.com/intl/en/policies/privacy/",
+      "https://google.com/intl/en/policies/terms/"
+    ],
+    "meta_info": [
+      {}
+    ],
+    "external_scripts": [],
+    "forms": [
+      {
+        "action": "/search",
+        "method": "GET",
+        "inputs": [
+          {
+            "type": "hidden",
+            "name": "hl",
+            "value": "en-SG"
+          },
+          {
+            "type": "hidden",
+            "name": "source",
+            "value": "hp"
+          },
+          {
+            "type": "hidden",
+            "name": "biw",
+            "value": null
+          },
+          {
+            "type": "hidden",
+            "name": "bih",
+            "value": null
+          },
+          {
+            "type": "text",
+            "name": "q",
+            "value": ""
+          },
+          {
+            "type": "submit",
+            "name": "btnG",
+            "value": "Google Search"
+          },
+          {
+            "type": "submit",
+            "name": "btnI",
+            "value": "I'm Feeling Lucky"
+          },
+          {
+            "type": "hidden",
+            "name": "iflsig",
+            "value": "AFdpzrgAAAAAaeRFPODaS9-59C4fuyIOadXM4WHJI0R5"
+          },
+          {
+            "type": "hidden",
+            "name": "gbv",
+            "value": "1"
+          }
+        ]
+      }
+    ],
+    "comments": [],
+    "whois": {
+      "registrar": "MarkMonitor, Inc.",
+      "creation_date": "[datetime.datetime(1997, 9, 15, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(1997, 9, 15, 7, 0, tzinfo=tzoffset('UTC', 0))]",
+      "expiration_date": "[datetime.datetime(2028, 9, 14, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2028, 9, 13, 7, 0, tzinfo=tzoffset('UTC', 0))]",
+      "name_servers": [
+        "NS1.GOOGLE.COM",
+        "NS2.GOOGLE.COM",
+        "NS3.GOOGLE.COM",
+        "NS4.GOOGLE.COM"
+      ],
+      "emails": [
+        "abusecomplaints@markmonitor.com",
+        "whoisrequest@markmonitor.com"
+      ]
+    },
+    "dns_records": {
+      "A": [
+        "74.125.200.139",
+        "74.125.200.138",
+        "74.125.200.102",
+        "74.125.200.100",
+        "74.125.200.101",
+        "74.125.200.113"
+      ],
+      "MX": [
+        "10 smtp.google.com."
+      ],
+      "TXT": [
+        "\"docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e\"",
+        "\"apple-domain-verification=30afIBcvSuDV2PLX\"",
+        "\"google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0\"",
+        "\"v=spf1 include:_spf.google.com ~all\"",
+        "\"MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB\"",
+        "\"docusign=1b0a6754-49b1-4db5-8540-d2c12664b289\"",
+        "\"onetrust-domain-verification=0d477fe608074e6f9c12bca7826035cc\""
+      ],
+      "NS": [
+        "ns2.google.com.",
+        "ns1.google.com.",
+        "ns4.google.com.",
+        "ns3.google.com."
+      ],
+      "SOA": [
+        "ns1.google.com. dns-admin.google.com. 901741869 900 900 1800 60"
+      ]
+    },
+    "geo_location": {
+      "status": "success",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "CA",
+      "regionName": "California",
+      "city": "Mountain View",
+      "zip": "94043",
+      "lat": 37.4225,
+      "lon": -122.085,
+      "timezone": "America/Los_Angeles",
+      "isp": "Google LLC",
+      "org": "Google LLC",
+      "as": "AS15169 Google LLC",
+      "query": "74.125.200.139"
+    },
+    "exposed_files": [
+      "/robots.txt",
+      "/sitemap.xml"
+    ]
+  },
+  "vulnerabilities": [
+    {
+      "type": "Missing Security Header",
+      "severity": "Medium",
+      "detail": "Missing Strict-Transport-Security header"
+    },
+    {
+      "type": "Missing Security Header",
+      "severity": "Medium",
+      "detail": "Missing Content-Security-Policy header"
+    },
+    {
+      "type": "Missing Security Header",
+      "severity": "Medium",
+      "detail": "Missing X-Content-Type-Options header"
+    },
+    {
+      "type": "Exposed File",
+      "severity": "Low",
+      "detail": "/robots.txt is accessible"
+    },
+    {
+      "type": "Exposed File",
+      "severity": "Low",
+      "detail": "/sitemap.xml is accessible"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "https://google.com",
+      "target": "mail.google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "www.google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "www.google.com.sg",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "accounts.google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "www.google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "www.google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "www.google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "www.google.com.sg",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "www.google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "https://google.com",
+      "target": "google.com",
+      "type": "external_link"
+    },
+    {
+      "source": "Unknown",
+      "target": "Mountain View, United States",
+      "type": "geolocation"
+    }
+  ],
+  "summary": {
+    "total_emails": 0,
+    "total_links": 14,
+    "total_vulnerabilities": 5,
+    "critical_issues": 0
+  }
+}
